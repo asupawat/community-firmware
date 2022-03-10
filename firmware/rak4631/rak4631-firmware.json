@@ -1,10 +1,10 @@
 {
-    "version": "0.1.0",
+    "version": "0.2.0",
     "description": "blelora RAK4631 example",
     "homepage": "https://github.com/blelora/rak4631-firmware",
     "license": "MIT",
     "dfuzip": {
-        "url": "https://github.com/blelora/rak4631-firmware/releases/download/0.1.0/rak4631-firmware.zip",
+        "url": "https://github.com/blelora/rak4631-firmware/releases/download/0.2.0/rak4631-firmware.zip",
         "hash": "c37af39b2dbb1ee40759652bcb157a52c7ed4812ec1f09a0ec5f6395174ccb8d"
     }
 }
